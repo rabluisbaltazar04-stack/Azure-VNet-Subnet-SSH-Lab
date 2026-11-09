@@ -26,6 +26,6 @@ The screenshot shows the Ubuntu terminal after my SSH connection succeeded. I di
 
 ## What I Learned
 
-I learned how cloud networking resources fit together and got more comfortable with connecting to a Linux VM. I still have a lot to learn about routes and network security, but this helped me understand them better.
+I learned how cloud networking resources fit together and how to configure a network and connect it to a VM. I still have a lot to learn about routes and network security, but this helped me understand them better.
 
 **Note:** This was an academic activity using temporary Azure resources. The VM is no longer running. I did not upload the SSH private key or the original screenshots containing account details.
